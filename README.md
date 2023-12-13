@@ -27,8 +27,8 @@ Download the source code from the GitHub repository, unzip the file, and using t
 
 #### Engineering School - First Year
 
-[Tom Dizdarevic](https://github.com/tom-diz)
-[Louis Vanlaeres](https://github.com/pouiterre)
+- [Tom Dizdarevic](https://github.com/tom-diz)
+- [Louis Vanlaeres](https://github.com/pouiterre)
 
 # Usage
 
